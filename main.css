@@ -1,0 +1,26 @@
+.stateRep__jimCooper {
+    background-color: blanchedalmond;
+    color: royalblue;
+}
+
+.stateRep__committees {
+    background-color: rosybrown;
+    color: brown;
+}
+
+.stateRep--legislation {
+    list-style-type: none;
+    background-color: darkcyan;
+}
+
+.stateRep__legislation {
+    background-color: coral;
+    color: black;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
